@@ -8,6 +8,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB", "DB\DB.csproj", "{C1193877-05CA-EE41-D8E4-EF46CB59A360}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dependencies", "Dependencies", "{A7A89251-58C5-4701-B1D4-6E471AC4AAE0}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MainApp", "MainApp", "{3BE96C1E-EB68-422A-98EF-617DC2CE28F8}"
 EndProject
